@@ -79,7 +79,7 @@ hr {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
   grid-column-gap: 5px;
-  grid-template-rows: repeat(16, 40px);
+  grid-template-rows: repeat(18, 40px);
   /* grid-template-rows: 1fr; */
 
 
